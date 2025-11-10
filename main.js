@@ -27,7 +27,7 @@ function draw()
 
 function take_snapshot()
 {
-    save("filterbyishaansaxena.png");
+    save("youwiththemoustache.png");
 }
 
 function modelLoaded()
